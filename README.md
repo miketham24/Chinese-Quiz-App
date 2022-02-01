@@ -1,6 +1,6 @@
 # Chinese-Quiz-App
 
-People who teach or learn Chinese can upload texts and based on the HSK 4,5,and 6 words database, it will rank words as 'Easy', 'Medium', or 'Hard' and create a quiz. Quiz allows user to label word as correct or wrong. If user gets word wrong, they will get tested on the word later in the quiz randomly and have to get that particular word correct 3 times in a row to have considred to get the word fully correct. After quiz, a quiz report will be shown. User is also able to save uploaded texts!
+People who teach or learn Chinese can upload texts and based on the HSK 4,5,and 6 words database, it will rank words as 'Easy', 'Medium', or 'Hard' and create a quiz. Quiz allows user to label word as correct or wrong. If user gets word wrong, they will get tested on the word later in the quiz randomly and have to get that particular word **correct 3 times in a row** to have considred to get the word fully correct. After quiz, a quiz report will be shown. User is also able to save uploaded texts!
 
 
 
